@@ -1,0 +1,25 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 30vh auto;
+  max-width: 480px;
+}
+
+.login_box {
+  max-width: 480px;
+  margin: auto;
+  padding: 20px 20px 10px;
+  border: 1px solid rgb(211, 188, 188);
+  -webkit-box-shadow: 2px 5px 26px -3px rgba(211,186,188,1);
+  -moz-box-shadow: 2px 5px 26px -3px rgba(211,186,188,1);
+  box-shadow: 2px 5px 26px -3px rgba(211,186,188,1);
+}
+
+.btn-box {
+  margin: 10px auto;
+  width: 100%;
+}
